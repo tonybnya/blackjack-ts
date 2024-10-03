@@ -8,8 +8,12 @@
   },
   "keywords": [],
   "author": "",
+<<<<<<< HEAD
   "license": "ISC",
   "devDependencies": {
     "typescript": "^5.6.2"
   }
+=======
+  "license": "ISC"
+>>>>>>> c08ae0eacf7b54fe0725508f50edeb27f516fbde
 }
